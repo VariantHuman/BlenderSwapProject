@@ -1,0 +1,25 @@
+Blender Swap Project
+
+
+-How it works-
+
+We will start with a repository with two folders, "Folder A" and "Folder B"
+Starting out, each containing a .blend file. "Project A" and "Project B" 
+
+On even weeks, Bennett will work on Project A and Stephen will work on Project B.
+On odd weeks, Bennett will work on Project B and Stephen will work on Project A.
+
+At the end of each week, we will save our progress to the .blend, take a screenshot of what the file should look like, and if necessary, include any source images, videos, shaders, or other .blend files and any notes that might be helpful in the folder corresponding to the project. We will both add all necessary files to git and push to the main branch. 
+
+At the beginning of the following week, we will pull from the main branch and check to make sure the .blend file looks like the screenshot left by the other person, and if it doesn't we will troubleshoot together. 
+
+
+-Rules for work-
+
+Anything added to the .blend file should be your own work. This means no free or paid assets directly from other artists, no recreating directly from other artists and no AI. Following tutorials for art techniques is allowed as long as the end result meaningfully different than the end result of the tutorial.
+
+Anything added by the other artist must remain in the .blend file and be used in some way in the final result. Work may be altered and transformed but must remain recognizable and feature in the final render. 
+
+
+
+
